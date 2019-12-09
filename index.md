@@ -1,3 +1,3 @@
 # Part 1 #
 
-![](aka_figures/yaktocat.png)
+![Distribution of inspections' types by interesting restaurants](aka_figures/dist_inspections_types_by_interesting.png)
