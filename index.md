@@ -11,7 +11,7 @@ If we're looking at McDonald's, Burger King and Wendy's, we want to choose one o
 By selecting KFC,Harold's Chicken and Popeyes, our chicago guy want to choose one of them for his dinner. He doesn't prefer any of them but he wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease. Like for the burgers, since 2015, KFC and Popeyes try to stabilize (decrease) their fail rate. In contrast, Harold's Chicken trend to fail more inspections for the two others. Base on that, the chicago guy will have to choose between the [Colonel Sanders](https://en.wikipedia.org/wiki/Colonel_Sanders) restaurant and Popeyes.  
 ### Want to eat some Pizza ?  
 ![Fail rate of Pizza restaurant](/franch_img/ph_dm_pjp.png)  
-Finally, what's better than a good pizza in front of the TV ? We have select one of the following restaurant: Pizza hut,Dominos or Papa John's pizza. By taking into account the plot above, we know that Papa John's pizza  decrease his fail rate ratio through 2015 but, unfortunately, nowadays it's better to goes in Dominos or Pizza Hut to have more safety. At the end, the best of the three restaurant is Pizza Hut who only has 9% of fail rate at present.
+Finally, what's better than a good pizza in front of the TV ? We have to select one of the following restaurant: Pizza hut,Dominos or Papa John's pizza. By taking into account the plot above, we know that Papa John's pizza  decrease his fail rate ratio through 2015 but, unfortunately, nowadays it's better to goes in Dominos or Pizza Hut to have more safety. At the end, the best of the three restaurant is Pizza Hut who only has 9% of fail rate at present.
  
 ## Where do I need to go?  
 
