@@ -1,5 +1,4 @@
-# Guide of Chicago restaurants - safety first  
-
+# Part Franchise versus Franchise  
 
 ## In which franchise should i go eat ?  
 Suppose that someone wants to eat in a big franchise for some reason. One can say that maybe it’s important to go to a safe place with little risk to contract a disease or something. If we check the rate of failed inspections, we can have an idea of which franchise is the safest.  
@@ -7,23 +6,10 @@ Suppose that someone wants to eat in a big franchise for some reason. One can sa
 ![Fail rate of burgers restaurant](/franch_img/mc_bk_wd.png)  
 If we’re looking at McDonald’s, Burger King and Wendy’s, we want to choose one of them to have a good American burger. The question is which one to choose? One can say that it depends on the person’s preference. Let’s answer this question by looking at the safety of each restaurant without considering the taste of each burger. In function of the year, the safest restaurant varies a lot but nowadays, Burger King is the best performing. In addition, one can note that since 2015, only Burger King tries to improve in comparison of Wendy’s and McDonald whose fail rate still increases.   
 
-
-## In which franchise should I go to eat?  
-Suppose that someone wants to eat in a big franchise for some reason. One can say that maybe it's important to go to a safe place with little risk to contract a disease or something. If we check the rate of failing inspections, we can have an idea of which franchise is the safest.  
-### Want to eat a beef burger?  
-![Fail rate of burger restaurant](/franch_img/mc_bk_wd.png)  
-If we're looking at McDonald's, Burger King and Wendy's, we want to choose one of them to have a good American burger. The question is which one to choose? One can say that it depends on the person's preference. Let's answer this question by looking at the safety of each restaurant without taking into account the taste of each burger. In function of the year, the safest restaurant varies a lot but nowadays, Burger King is the best performing. In addition, one can note that since 2015, only Burger King tries to improve in comparison of Wendy's and McDonald whose fail rate still increases.  
-
-
-### Want to eat some fried chicken?  
+### Want to eat some fried chicken ?  
 ![Fail rate of chicken restaurant](/franch_img/kfc_hc_pp.png)  
-
 By selecting KFC, Harold’s Chicken and Popeyes, our Chicago guy want to choose one of them for his dinner. He doesn’t prefer any of them but he wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease. Like for the burgers, since 2015, KFC and Popeyes try to stabilize (decrease) their fail rate. In contrast, Harold’s Chicken trend to fail more inspections for the two others. Base on that, the Chicago guy will have to choose between the [Colonel Sanders](https://en.wikipedia.org/wiki/Colonel_Sanders) restaurant and Popeyes.  
 ### Want to eat some Pizza ?  
-
-By selecting KFC,Harold's Chicken and Popeyes, our chicago guy want to choose one of them for his dinner. He doesn't prefer any of them but he wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease. Like for the burgers, since 2015, KFC and Popeyes try to stabilize (decrease) their fail rate. In contrast, Harold's Chicken trend to fail more inspections for the two others. Base on that, the chicago guy will have to choose between the [Colonel Sanders](https://en.wikipedia.org/wiki/Colonel_Sanders) restaurant and Popeyes.  
-### Want to eat some Pizza?  
-
 ![Fail rate of Pizza restaurant](/franch_img/ph_dm_pjp.png)  
 Finally, what’s better than a good pizza in front of the TV? We must select one of the following restaurants: Pizza Hut, Dominos or Papa John’s pizza. By taking into account the plot above, we know that Papa John’s pizza decrease his fail rate ratio through 2015 but, unfortunately, nowadays it’s better to goes in Dominos or Pizza Hut to have more safety. At the end, the best of the three restaurant is Pizza Hut who only has 9% of fail rate at present.
  
@@ -35,7 +21,7 @@ Sometimes, we just don't want to go far away to enjoy a meal. We want to get out
 
 Chicago suffers a clear wealth divide with some district being largely poorer than teir neighboors. This can be observed with the North and North-East districts that are way richer than the West and South side of Chicago. We used the median household income as a wealth indicator to see if there is a correlation between the wealth and the overall restaurant inspections' results.  
 To visualize this, we put side by side the districts' median income, their average inspections per restaurant (from 2011 to 2017) and the average inspection fail rate of these same restaurants.  
-
+<<<<<<< HEAD
 ![Correlation between wealth, inspections and fail rate](part_location/socioeconomics/merged.png)
 #### IMAGE INCOME->INSPECTION/LICENSE->FAILRATE  
 We clearly see a domino effect between these different metrics. Especially, lower income districts' restaurants may face less inspections. And this lower amount of inspections leads surely to more failures as restaurants are left alone longer without control.  
