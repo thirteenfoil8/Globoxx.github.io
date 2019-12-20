@@ -35,7 +35,7 @@ Looking at the overall failure rate between different types of franchises, we ca
 ## Which violations are the main causes of inspection failure?
 Before digging the different franchises and the violations they've got, let's take a look at the main cause of inspection failure for major franchise restaurants.  
 <br>  
-![Inspections per group](general/violations_repartition.jpg)  
+![Inspections per group](general/violations_repartition.jpeg)  
 <br>
 Among the violations related to the inspection failure, hygiene issue caused more than half of the total violations, followed by equipment. Looking at those two violations thoroughly, different types of franchises will give us the detailed idea of which place is safer to visit.
 
