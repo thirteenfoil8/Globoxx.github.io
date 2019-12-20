@@ -9,11 +9,8 @@ To get the ideas of safe restaurants in Chicago, we first need to see how Chicag
 ### Are franchise restaurants safer than individual restaurants?
 Roughly, there are two ways of choosing a place to eat. One is eating at a franchise restaurant that is already familiar to you, the other is challenging a restaurant you have never seen before. Which will be the safest action? 
  
-Here is quick look at the average number of inspections and inspection pass rate of Chicago restaurants. We classified the restaurants in three groups: massive, worldwide franchises, smaller franchises, and non-franchises. As we can see in the next figures, both average inspections and passing rate are highest in big franchise restaurants. Smaller franchises were inspectly least frequently, but their pass rate was still higher than individual restaurants.  
+Here is quick look at the average number of inspections and inspection pass rate of Chicago restaurants. We classified the restaurants in three groups: massive, worldwide franchises, smaller franchises, and non-franchises. As we can see in the next figure, the average inspections is the highest in big franchise restaurants while smaller franchises were inspectly least frequently.  
 ![Inspections per group](general/inspections_avg_franchise_individuals.png)  
-#### PICTURE PASS RATE individuals/small/big  
-
-### 
 
 
 ### The fries or the salad?  
@@ -27,7 +24,7 @@ Seeing from the overall fail rate between different types of franchises, we can 
 
 ### Which violations are the main causes of inspection failure?
 Before digging the different franchises with the violations they've got, let's take a look into the main cause of inspection failure for major franchise restaurants.
-#### PICTURE VIOLATIONS REPARTITION  
+![Inspections per group](general/violations_repartition.jpg)  
 Among the violations related to the inspection failure, hygyene issue took more than half of the total violations, followed by equipment. Looking into those two violations througout different types of franchises will give us the detailed idea of which place is safer to visit.
 
 ### The violations podium
@@ -66,7 +63,7 @@ Finally, what's better than a good pizza in front of the TV ? We have to select 
  
 ## Where do I need to go?  
 
-Sometimes, we just don't want to go far away to enjoy a meal. We want to get out of bed, go outside and take a burger at the closest street block without worrying about transportation. We will see in this part that not all districts are equal regarding inspections and their results. Latter on, we will focus on some franchises as those also have pretty different results depending on where they are located in Chicago.  
+Sometimes, we just don't want to go far away to enjoy a meal. We want to get out of bed, go outside and take a burger at the closest street block without worrying about transportation. We will see in this part that not all districts are equal regarding inspections and their results. Later on, we will focus on some franchises as those also have pretty different results depending on where they are located in Chicago.  
 
 ### The socio-economic factor  
 
@@ -103,7 +100,7 @@ One information that isn't shown in this part is the number of licenses Starbuck
 <br>
 ![Snacks](part_location/snacks/merged.png)  
 
-#### Conclusion
-As a conclusion, we made a (simplified) table to recommend which franchises to go to depending on your location and food habits:  
+#### Recommendation table
+As a conclusion, we made a table to recommend which franchises to go to depending on your location and food habits. It's obviously simplified and thus may miss some details such as smaller districts:  
 <br>
 ![Recommendation](part_location/recommendation.png)
