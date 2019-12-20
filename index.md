@@ -71,7 +71,7 @@ We clearly see a domino effect between these different metrics. Especially, lowe
 We got you covered! They are many franchises established in Chicago and all the biggest ones (such as McDonald's, Starbucks, KFC...) are present. But as we may expect, they all behave differently depending on where they are located. We will cover in this subsection which franchises are to be preferred depending on what type of food do you want and where do you want to eat it.  
 We split up the franchises in four different categories depending on what type of food they are selling: burgers, pizzas, fried chicken and snacks/drinks. Each category only contains the three most established franchises as smaller ones tend to have not enough data to study. 
 #### I want: a Burger  
-For the burger category, we have McDonald's, Burger King and Wendy's facing themselves. McDonald's has a failure rate around 15% over Chicago but has no outliers (the biggest fail rate is only 35%). This differs from Burger King that is much less prone to failing inspections in the North and South of Chicago but has 2 districts in the Middle-North that are close to 50% failing rate. Wendy's follows the same trend except the worst places in the south.
+For the burger category, we have McDonald's, Burger King and Wendy's facing themselves. McDonald's has a failure rate around 15% in most Chicago distrincts but has no outliers (the biggest fail rate is only 35%). This differs from Burger King that is much less prone to failing inspections in the North and South of Chicago but has 2 districts in the Middle-North that are close to 50% failing rate. Wendy's follows the same trend except the worst places in the south.
 <br>
 ![Burgers](part_location/burgers/merged.png)  
 
