@@ -1,5 +1,3 @@
-<body style="cursor: url('Alien_left_select.cur')">
-    
 # Part Franchise versus Franchise #
 
 ## In which franchise should i go eat ?
