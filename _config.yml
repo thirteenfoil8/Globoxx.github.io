@@ -1,2 +1,4 @@
-remote_theme: daattali/beautiful-jekyll
+theme: jekyll-theme-slate
 title: Chicago food inspections
+github:
+  repository_url: https://github.com/njomeau/Adata-project2
