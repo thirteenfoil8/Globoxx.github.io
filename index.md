@@ -1,4 +1,4 @@
-# Part Franchise versus Franchise  
+# Guide of Chicago restaurants - safety first  
 
 
 ## In which franchise should I go to eat?  
