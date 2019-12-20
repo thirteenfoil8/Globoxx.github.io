@@ -1,17 +1,59 @@
+# alien's guide to chicago restaurants - safety first
+
+You are Bob, a globe trotter who is travelling through the universe. You had an accident with your spacecraft so you made an emergency landing somewhere on the Earth. You discovers the fifty-star-spangled flags and three-star-spangled flags on street. Being an alien who has some knowledge in different countries and flags on the Earth, you correctly guesses that you are somewhere in Chicago, U.S. "What a relief", you say to yourself, "at least I can read English!"
+Suddenly, you feel starvation. You need to find something to eat, somewhere that sells food. Fortunately, you can see a lot of facilities that seems to serve food. But you have no idea which place is safe to go. Bewildered, you ask Adata2 team for help.
+"I am starving. Can you tell me which restaurant to visit? All I know is that I am somewhere in Chicago. I don't really care how the food tastes, but I do care for safety."
+
+# Bird's eye view on Chicago restaurants.
+
+To get the ideas of safe restaurants in Chicago, we first need to see how Chicago food inspection works for restaurants in general. How often are restaurants inspected conducted and how many of them pass? What are the main causes of failure? Are there other sociological or geological features that are correlated with certain tendancies?
+
+### Are franchise restaurants safer than individual restaurants?
+Roughly, there are two ways of choosing a place to eat. One is eating at a franchise restaurant that is already familiar to you, the other is challenging a restaurant you have never seen before. Which will be the safest action? 
+
+#### PICTURE NB INSPECTION individuals/small/big  
+Here is quick look at the average number of inspections and inspection pass rate of Chicago restaurants. We classified the restaurants in three groups: massive, worldwide franchises, smaller franchises, and non-franchises. As we can see in the next figure, both average inspections and passing rate are highest in big franchise restaurants. Smaller franchises were inspectly least frequently, but their pass rate was still higher than individual restaurants.  
+#### PICTURE NB INSPECTION individuals/small/big  
+
+### Is the Wealthier the safer, wherever you are?
+
+In the previous part, we discovered that the restaurants in wealthier regions tends to be safer. Is this tendency still visible in different groups of restaurants?
+
+For non-franchise restaurants, there is a meaningful positive correlation between regional wealth and regional inspection pass rate. For the others, the correlation is weaker. However, the variance of regional pass rate is higher for smaller franchises. 
+
+
+#### To summarize, massive franchise restaurants in Chicago not only had highest inspection rate and pass rate, it also showed relatively consistent pass rate thoughout different regions. To a total alien in Chicago, we will recommend her to visit the franchise that is already familiar to her.
+
+## Then, which franchise should I visit?
+There are different types of food serve in franchise restaurants: burgers, sandwiches, pizza.. Can we tell which type of franchise is safer to eat in Chicago?
+
+### Which type of franchise is inspected most often?
+First, take a look at the average number of inspection for each type of franchise. Sandwich franchises are inspected most often, more than double of the inspection frequency of pizza franchises.
+
+### Which type of franchise has highest pass rate?
+Seeing from the overall fail rate between different types of franchises, we can say sandwich franchises are the safest, and the pizza franchises are the least safest. The correlation between the inspection pass rate and the inspection frequency was -0.69. We can infer that the restaurant that is inspected more often is likely to take care of safety issues, and eventually, to pass the inspection better than its counterparts
+
+### Which violations are the main causes of inspection failure?
+Before digging the different franchises with the violations they've got, let's take a look into the main cause of inspection failure for major franchise restaurants.
+Among the violations related to the inspection failure, hygyene issue took more than half of the total violations, followed by equipment. Looking into those two violations througout different types of franchises will give us the detailed idea of which place is safer to visit.
+
+### violation studies between differnt types of franchises - maybe focus on hygyene and equipement?
+BLAHBLAH
+
 # Part Franchise versus Franchise  
 
 
 ## In which franchise should I go to eat?  
 Suppose that someone wants to eat in a big franchise for some reason. One can say that maybe it's important to go to a safe place with little risk to contract a disease or something. If we check the rate of failing inspections, we can have an idea of which franchise is the safest.  
 ### Want to eat a beef burger?  
-![Fail rate of burger restaurant](/franch_img/mc_bk_wd.png)  
+![Fail rate of burger restaurant](franch_img/mc_bk_wd.png)  
 If we're looking at McDonald's, Burger King and Wendy's, we want to choose one of them to have a good American burger. The question is which one to choose? One can say that it depends on the person's preference. Let's answer this question by looking at the safety of each restaurant without taking into account the taste of each burger. In function of the year, the safest restaurant varies a lot but nowadays, Burger King is the best performing. In addition, one can note that since 2015, only Burger King tries to improve in comparison of Wendy's and McDonald whose fail rate still increases.  
 
 ### Want to eat some fried chicken?  
-![Fail rate of chicken restaurant](/franch_img/kfc_hc_pp.png)  
+![Fail rate of chicken restaurant](franch_img/kfc_hc_pp.png)  
 By selecting KFC,Harold's Chicken and Popeyes, our chicago guy want to choose one of them for his dinner. He doesn't prefer any of them but he wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease. Like for the burgers, since 2015, KFC and Popeyes try to stabilize (decrease) their fail rate. In contrast, Harold's Chicken trend to fail more inspections for the two others. Base on that, the chicago guy will have to choose between the [Colonel Sanders](https://en.wikipedia.org/wiki/Colonel_Sanders) restaurant and Popeyes.  
 ### Want to eat some Pizza?  
-![Fail rate of Pizza restaurant](/franch_img/ph_dm_pjp.png)  
+![Fail rate of Pizza restaurant](franch_img/ph_dm_pjp.png)  
 Finally, what's better than a good pizza in front of the TV ? We have to select one of the following restaurant: Pizza hut,Dominos or Papa John's pizza. By taking into account the plot above, we know that Papa John's pizza  decrease his fail rate ratio through 2015 but, unfortunately, nowadays it's better to goes in Dominos or Pizza Hut to have more safety. At the end, the best of the three restaurant is Pizza Hut who only has 9% of fail rate at present.
  
 ## Where do I need to go?  
