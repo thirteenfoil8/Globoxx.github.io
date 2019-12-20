@@ -13,9 +13,12 @@ Roughly, there are two ways of choosing a place to eat. One is eating at a franc
 Here is a quick look at the average number of inspections and inspection pass rate of Chicago restaurants. We classified the restaurants in three groups: massive and worldwide franchises, smaller franchises, and non-franchises. As we can see in the next figure, the average inspections is the highest in big franchise restaurants while smaller franchises were inspectly least frequently.  
 <br>
 ![Inspections per group](general/inspections_avg_franchise_individuals.png)  
+<br>
 
 Franchise are also more resistant to socioeconomics factors than individual restaurants. For example the poverty of a district doesn't influence if a franchised restaurant will fail an inspection whereas a small restaurant will suffer higher failing rate.  We displayed from left to right big franchises, small franchises and individuals. Each point represents the average fail rate (x axis) of a district depending on its wealth (y axis).  
-![Inspections per group](general/median_income_passrate.png)  
+<br>
+![Inspections per group](general/median_income_passrate.png) 
+<br> 
 
 
 ## The fries or the salad?  
