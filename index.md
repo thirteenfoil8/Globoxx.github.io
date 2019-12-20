@@ -44,11 +44,11 @@ Suppose that someone wants to eat in a big franchise for some reason. One can sa
 If we're looking at McDonald's, Burger King and Wendy's, we want to choose one of them to have a good American burger. The question is which one to choose? One can say that it depends on the person's preference. Let's answer this question by looking at the safety of each restaurant without taking into account the taste of each burger. In function of the year, the safest restaurant varies a lot but nowadays, Burger King is the best performing. In addition, one can note that since 2015, only Burger King tries to improve in comparison of Wendy's and McDonald whose fail rate still increases.  
 
 ### Want to eat some fried chicken?  
-![Fail rate of chicken restaurant](franch_img/kfc_hc_pp.png)  
-By selecting KFC,Harold's Chicken and Popeyes, our chicago guy want to choose one of them for his dinner. He doesn't prefer any of them but he wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease. Like for the burgers, since 2015, KFC and Popeyes try to stabilize (decrease) their fail rate. In contrast, Harold's Chicken trend to fail more inspections for the two others. Base on that, the chicago guy will have to choose between the [Colonel Sanders](https://en.wikipedia.org/wiki/Colonel_Sanders) restaurant and Popeyes.  
+![Fail rate of chicken restaurant](/franch_img/kfc_hc_pp.png)  
+By selecting KFC, Harold's Chicken and Popeyes, our Chicago guy want to choose one of them for his dinner. He doesn't prefer any of them, but he wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease. Like for the burgers, since 2015, KFC and Popeyes try to stabilize (decrease) their fail rate. In contrast, Harold's Chicken trends to fail more inspections than the two others. Base on that, the Chicago guy will have to choose between the [Colonel Sanders](https://en.wikipedia.org/wiki/Colonel_Sanders) restaurant and Popeyes.  
 ### Want to eat some Pizza?  
-![Fail rate of Pizza restaurant](franch_img/ph_dm_pjp.png)  
-Finally, what's better than a good pizza in front of the TV ? We have to select one of the following restaurant: Pizza hut,Dominos or Papa John's pizza. By taking into account the plot above, we know that Papa John's pizza  decrease his fail rate ratio through 2015 but, unfortunately, nowadays it's better to goes in Dominos or Pizza Hut to have more safety. At the end, the best of the three restaurant is Pizza Hut who only has 9% of fail rate at present.
+![Fail rate of Pizza restaurant](/franch_img/ph_dm_pjp.png)  
+Finally, what's better than a good pizza while watching TV? We have to select one of the following restaurant: Pizza Hut, Dominos or Papa John's pizza. By taking into account the plot above, we know that Papa John's pizza decrease his fail rate ratio through 2015 but, unfortunately, nowadays it's better to goes in Dominos or Pizza Hut to have more safety. At the end, the best of the three restaurant is Pizza Hut who only has 9% of fail rate at present.
  
 ## Where do I need to go?  
 
@@ -92,7 +92,7 @@ One information that isn't shown in this part is the number of licenses Starbuck
 #### Recommendation table
 As a conclusion, we made a table to recommend which franchises to go to depending on your location and food habits. It's obviously simplified and thus may miss some details such as smaller districts:  
 <br>
-![Recommendation](part_location/recommendation.png)
+![Recommendation](part_location/recommendation.png)  
 
 # Conclusion  
 In conclusion, by reading the Chicago's guide recommandation, Bob gained some hindsights on which franchises are safer and make some effort of sanitization. This little guide that Bob can read every time he is lost and hungry in Chicago to remember which franchise to choose or to flee. The inspections are necessary to enforce a good level of sanitisation from the restaurants and we can clearly see it in our guide. The restaurants that do not follow the stream surely will not be visited anymore in the near future by Bob. Food safety is at the center of concern when choosing a place to eat for most of people in the world.
