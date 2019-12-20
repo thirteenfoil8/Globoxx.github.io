@@ -1,17 +1,18 @@
-# Part Franchise versus Franchise #
+# Part Franchise versus Franchise  
 
-## In which franchise should i go eat ?
-Supposed that someone want to eat in a big franchise for some reason. One can say that maybe it's important to go in a safe place with little risk to contrat a disease or something. If we check the rate of fail inspections, we can have an idea of which franchise is the safest.
-### Want to eat a beef burger?
-![Fail rate of burgers restaurant](franch_img/mc_bk_wd.png)
-If we're looking at McDonald's, Burger King and Wendys, we want to choose one of them to have a good american burger. The question is which one to choose? One can say that it depends on the people preference. Let's answer this question by looking at the safety of each restaurant without taking into account the taste of each burgers. In function of the year, the safest restaurant varies but nowadays, Burger king is the winner of this problem. 
 
-### Want to eat some chicken ?
-![Fail rate of chicken restaurant](franch_img/kfc_hc_pp.png)
-By selecting KFC,Harold's Chicken and Popeyes, our chicago guy want to choose on of them for his dinner. He doesn't prefer any of them he just wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease.
+## In which franchise should i go eat ?  
+Supposed that someone want to eat in a big franchise for some reason. One can say that maybe it's important to go in a safe place with little risk to contrat a disease or something. If we check the rate of fail inspections, we can have an idea of which franchise is the safest.  
+### Want to eat a beef burger?  
+![Fail rate of burgers restaurant](/franch_img/mc_bk_wd.png)  
+If we're looking at McDonald's, Burger King and Wendy's, we want to choose one of them to have a good american burger. The question is which one to choose? One can say that it depends on the people preference. Let's answer this question by looking at the safety of each restaurant without taking into account the taste of each burger. In function of the year, the safest restaurant varies but nowadays, Burger king is the winner. I addition, one note that since 2015, only Burger King try to perform better in comparison with Wendy's and Mcdonald's those increase their fail rate.  
+
+### Want to eat some fried chicken ?  
+![Fail rate of chicken restaurant](/franch_img/kfc_hc_pp.png)  
+By selecting KFC,Harold's Chicken and Popeyes, our chicago guy want to choose one of them for his dinner. He doesn't prefer any of them but he wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease. Like for the burgers, since 2015, KFC and Popeyes try to stabilize (decrease) their fail rate. In contrast, Harold's Chicken trend to fail more inspections for the two others. Base on that, the chicago guy will have to choose between the [Colonel Sanders](https://en.wikipedia.org/wiki/Colonel_Sanders) restaurant and Popeyes.  
 ### Want to eat some Pizza ?  
-![Fail rate of Pizza restaurant](franch_img/ph_dm_pjp.png)
-
+![Fail rate of Pizza restaurant](/franch_img/ph_dm_pjp.png)  
+Finally, what's better than a good pizza in front of the TV ? We have to select one of the following restaurant: Pizza hut,Dominos or Papa John's pizza. By taking into account the plot above, we know that Papa John's pizza  decrease his fail rate ratio through 2015 but, unfortunately, nowadays it's better to goes in Dominos or Pizza Hut to have more safety. At the end, the best of the three restaurant is Pizza Hut who only has 9% of fail rate at present.
  
 ## Where do I need to go?  
 
@@ -21,6 +22,7 @@ Sometimes, we just don't want to go far away to enjoy a meal. We want to get out
 
 Chicago suffers a clear wealth divide with some district being largely poorer than teir neighboors. This can be observed with the North and North-East districts that are way richer than the West and South side of Chicago. We used the median household income as a wealth indicator to see if there is a correlation between the wealth and the overall restaurant inspections' results.  
 To visualize this, we put side by side the districts' median income, their average inspections per restaurant (from 2011 to 2017) and the average inspection fail rate of these same restaurants.  
+
 <br>  
 ![Correlation between wealth, inspections and fail rate](part_location/socioeconomics/merged.png)  
 <br>  
@@ -30,7 +32,6 @@ We clearly see a domino effect between these different metrics. Especially, lowe
 
 We got you covered! They are many franchises established in Chicago and all the biggest ones (such as McDonalds, Starbucks, KFC...) are present. But as we may expect, they all behave differently depending on where they are located. We will cover in this subsection which franchises are to be prefered depending on what type of food do you want and where do you want to eat it.  
 We split up the franchises in 4 different categories depending on what type of food they are sellings: burgers, pizzas, fried chicken and snacks/drinks. Each categories only contains the 3 most established franchises as smaller ones tend to have not enough data for to study.  
-<br>
 #### I want: a Burger  
 For the burger category, we have McDonalds, BurgerKing and Wendys facing themselves. McDonalds has a failing rate greater than 15% on almost all Chicago's territory but has no outliers (the biggest fail rate in only 35%). This differs from BurgerKing that is much less prone to failing inspections in the North and South of Chicago but has 2 districts in the Middle-North that are close to 50% failing rate. Wendys follows the same trend except the worst places in the south.  
 <br>
@@ -51,7 +52,7 @@ There is also a black sheep in fried chicken fast foods: Harold's Chicken Shack.
 One information that isn't shown in this part is the number of licenses Starbucks and Jamba Juice have in each district. They are both heavily invested in the touristic area of Chicago (the pier in the Middle-West) with as many as 30 stores in the tiniest district! They both are very careful in this location with fail rates lower than 15% on average. Starbucks is much better than Dunkin Donuts in the North and finally DD is the only one covering the South with unfortunately a pretty high fail rate.  
 <br>
 ![Snacks](part_location/snacks/merged.png)  
-<br>
+
 #### Conclusion
 As a conclusion, we made a (simplified) table to recommend which franchises to go to depending on your location and food habits:  
 <br>
