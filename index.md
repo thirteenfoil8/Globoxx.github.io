@@ -1,4 +1,4 @@
-<body style="cursor: url('cur815.ani')">
+<body style="cursor: url('Alien_left_select.cur')">
     
 # Part Franchise versus Franchise #
 
