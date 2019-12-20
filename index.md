@@ -25,11 +25,16 @@ To visualize this, we put side by side the districts' median income, their avera
 <br>  
 We clearly see a domino effect between these different metrics. Especially, lower income districts' restaurants may face less inspections. And this lower amount of inspections leads surely to more failures as restaurants are left alone longer without control. So if you want to lunch in a random restaurant within your district with as few sanitization issues as possible, you better live in the wealthiest one!  
 
-### But what if I  prefer <insert_franchise\> ? 
+### But what if I  prefer <insert_food\> ? 
 
 We got you covered! They are many franchises established in Chicago and all the biggest ones (such as McDonalds, Starbucks, KFC...) are present. But as we may expect, they all behave differently depending on where they are located. We will cover in this subsection which franchises are to be prefered depending on what type of food do you want and where do you want to eat it.  
 <br>
+![Burgers](part_location/burgers/merged.png)  
+![Burgers](part_location/pizzas/merged.png)  
+![Burgers](part_location/friedchicken/merged.png)  
+![Burgers](part_location/snacks/merged.png)  
 #### I want: a Burger  
-#### I want: a Sandwich  
+For the burger category, we have McDonalds, BurgerKing and Wendys facing themselves.  
+#### I want: a Snack  
 #### I want: Fried Chicken  
-#### I want: a Drink  
+#### I want: a Pizza  
