@@ -1,3 +1,5 @@
+# Introduction  
+
 You are Bob, a globe trotter who is travelling across the world. You find yourself stranded in Chicago with nothing to eat or to drink. Because somehow nobody wants to help you, you look at the Chicago Food Inspection's guide with restaurant recommendations. By reading it, you realize that some of these recommendations are linked to multiple factors and some restaurants are deemed as dangerous or sage. You ignore the hunger and decide to go deeper in the book to learn about them.
 
 # Bird's eye view of Chicago restaurants.
@@ -7,6 +9,7 @@ To get the ideas of safe restaurants in Chicago, we first need to see how Chicag
 ## Are franchise restaurants safer than individual restaurants?
 Roughly, there are two ways of choosing a place to eat. One is eating at a franchise restaurant that is already familiar to you, the other is challenging a restaurant you have never seen before. Which will be the safest action? 
  
+
 Here is a quick look at the average number of inspections and inspection pass rate of Chicago restaurants. We classified the restaurants in three groups: massive and worldwide franchises, smaller franchises, and non-franchises. As we can see in the next figure, the average inspections is the highest in big franchise restaurants while smaller franchises were inspectly least frequently.  
 ![Inspections per group](general/inspections_avg_franchise_individuals.png)  
 
@@ -34,6 +37,7 @@ Few franchises are similar to each other and it gives some interesting results. 
 Funnily, McDonald's has the highest number of violations related to equipment maintenance/sanitization. A nice find when you know that they were heavily mocked a few months ago on the internet for their always-broken ice machines.  
 ![Inspections per group](general/complaint_inspections_by_franchise.png)  
 No luck for McDonalds, they are still the best in another category! With BurgerKing, they must have angered a lot of customers to be controlled close to four out of five times for a complaint.  
+![McDonalds](meme.png)
 
 
 
@@ -71,7 +75,7 @@ We clearly see a domino effect between these different metrics. Especially, lowe
 We got you covered! They are many franchises established in Chicago and all the biggest ones (such as McDonald's, Starbucks, KFC...) are present. But as we may expect, they all behave differently depending on where they are located. We will cover in this subsection which franchises are to be preferred depending on what type of food do you want and where do you want to eat it.  
 We split up the franchises in four different categories depending on what type of food they are selling: burgers, pizzas, fried chicken and snacks/drinks. Each category only contains the three most established franchises as smaller ones tend to have not enough data to study. 
 #### I want: a Burger  
-For the burger category, we have McDonald's, Burger King and Wendy's facing themselves. McDonald's has a failure rate around 15% in most Chicago distrincts but has no outliers (the biggest fail rate is only 35%). This differs from Burger King that is much less prone to failing inspections in the North and South of Chicago but has 2 districts in the Middle-North that are close to 50% failing rate. Wendy's follows the same trend except the worst places in the south.
+For the burger category, we have McDonald's, Burger King and Wendy's facing themselves. McDonald's has a failure rate around 15% in most Chicago distrincts but has no outliers (the biggest fail rate is only 35%). This differs from Burger King which is much less prone to failing inspections in the North and South of Chicago but has two districts in the Middle-North that are close to 50% failing rate. Wendy's follows the same trend except for the worst places in the south.
 <br>
 ![Burgers](part_location/burgers/merged.png)  
 
@@ -81,18 +85,18 @@ Pizzas are a little bit different than other franchise types as they are also he
 ![Pizzas](part_location/pizzas/merged.png)  
 
 #### I want: Fried Chicken  
-There is also a black sheep in fried chicken fast foods: Harold's Chicken Shack. While it covers the vast majority of South Chicago (the poorest region), most of the franchises are failing at least one quarter of the inspections. KFC and Popeyes have are doing well in the South but KFC has the advantage in the North.  
+There is also a black sheep in fried chicken fast foods: Harold's Chicken. While it covers the vast majority of South Chicago (the poorest region), most of the franchises are failing at least one quarter of the inspections. KFC and Popeyes are doing well in the South but KFC has the advantage in the North.  
 <br>
 ![Fried Chicken](part_location/friedchicken/merged.png)  
 
 
 #### I want: a Snack  
-One information that isn't shown in this part is the number of licenses Starbucks and Jamba Juice have in each district. They are both heavily invested in the touristic area of Chicago (the pier in the Middle-West) with as many as 30 stores in the tiniest district! They both are very careful in this location with fail rates lower than 15% on average. Starbucks is much better than Dunkin Donuts in the North and finally DD is the only one covering the South with unfortunately a pretty high fail rate.  
+One information that isn't shown in this part is the number of licenses Starbucks and Jamba Juice have in each district. They are both heavily invested in the touristic area of Chicago (the port in the Middle-West) with as many as thirty stores in the tiniest district! They both are very careful in this location with fail rates lower than 15% on average. Starbucks is much better than Dunkin Donuts in the North and finally the later is the only one covering the South with unfortunately a pretty high fail rate.  
 <br>
 ![Snacks](part_location/snacks/merged.png)  
 
 #### Recommendation table
-To summarize, we made a table to recommend which franchises to go to depending on your location and food habits. It's obviously simplified and thus may miss some details such as smaller districts:  
+To summarize, we made a table to recommend which franchises to go to depending on your location and food habits. It is obviously simplified and thus may miss some details such as smaller districts:  
 <br>
 ![Recommendation](part_location/recommendation.png)  
 
