@@ -1,16 +1,16 @@
-# Part Franchise versus Franchise #
+# Part Franchise versus Franchise  
 
-## In which franchise should i go eat ?
-Supposed that someone want to eat in a big franchise for some reason. One can say that maybe it's important to go in a safe place with little risk to contrat a disease or something. If we check the rate of fail inspections, we can have an idea of which franchise is the safest.
-### Want to eat a beef burger?
-![Fail rate of burgers restaurant](/franch_img/mc_bk_wd.png)
+## In which franchise should i go eat ?  
+Supposed that someone want to eat in a big franchise for some reason. One can say that maybe it's important to go in a safe place with little risk to contrat a disease or something. If we check the rate of fail inspections, we can have an idea of which franchise is the safest.  
+### Want to eat a beef burger?  
+![Fail rate of burgers restaurant](/franch_img/mc_bk_wd.png)  
 If we're looking at McDonald's, Burger King and Wendys, we want to choose one of them to have a good american burger. The question is which one to choose? One can say that it depends on the people preference. Let's answer this question by looking at the safety of each restaurant without taking into account the taste of each burger. In function of the year, the safest restaurant varies but nowadays, Burger king is the winner. I addition, one note that since 2015, only Burger King try to perform better in comparison with Wendys and Mcdonald's those increase their fail rate.  
 
-### Want to eat some fried chicken ?
-![Fail rate of chicken restaurant](/franch_img/kfc_hc_pp.png)
-By selecting KFC,Harold's Chicken and Popeyes, our chicago guy want to choose one of them for his dinner. He doesn't prefer any of them but he wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease. Like for the burgers, since 2015, KFC and Popeyes try to stabilize (decrease) their fail rate. In contrast, Harold's Chicken trend to fail more inspections for the two others. Base on that, the chicago guy will have to choose between the [Colonel Sanders](https://en.wikipedia.org/wiki/Colonel_Sanders) restaurant and Popeyes. 
+### Want to eat some fried chicken ?  
+![Fail rate of chicken restaurant](/franch_img/kfc_hc_pp.png)  
+By selecting KFC,Harold's Chicken and Popeyes, our chicago guy want to choose one of them for his dinner. He doesn't prefer any of them but he wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease. Like for the burgers, since 2015, KFC and Popeyes try to stabilize (decrease) their fail rate. In contrast, Harold's Chicken trend to fail more inspections for the two others. Base on that, the chicago guy will have to choose between the [Colonel Sanders](https://en.wikipedia.org/wiki/Colonel_Sanders) restaurant and Popeyes.  
 ### Want to eat some Pizza ?  
-![Fail rate of Pizza restaurant](/franch_img/ph_dm_pjp.png)
+![Fail rate of Pizza restaurant](/franch_img/ph_dm_pjp.png)  
 
  
 ## Where do I need to go?  
