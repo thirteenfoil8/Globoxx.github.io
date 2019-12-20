@@ -1,5 +1,3 @@
-# alien's guide to chicago restaurants - safety first
-
 You are Bob, a globe trotter who is travelling through the universe. You had an accident with your spacecraft so you made an emergency landing somewhere on the Earth. You discovers the fifty-star-spangled flags and three-star-spangled flags on street. Being an alien who has some knowledge in different countries and flags on the Earth, you correctly guesses that you are somewhere in Chicago, U.S. "What a relief", you say to yourself, "at least I can read English!"
 Suddenly, you feel starvation. You need to find something to eat, somewhere that sells food. Fortunately, you can see a lot of facilities that seems to serve food. But you have no idea which place is safe to go. Bewildered, you ask Adata2 team for help.
 "I am starving. Can you tell me which restaurant to visit? All I know is that I am somewhere in Chicago. I don't really care how the food tastes, but I do care for safety."
@@ -12,7 +10,7 @@ To get the ideas of safe restaurants in Chicago, we first need to see how Chicag
 Roughly, there are two ways of choosing a place to eat. One is eating at a franchise restaurant that is already familiar to you, the other is challenging a restaurant you have never seen before. Which will be the safest action? 
  
 Here is quick look at the average number of inspections and inspection pass rate of Chicago restaurants. We classified the restaurants in three groups: massive, worldwide franchises, smaller franchises, and non-franchises. As we can see in the next figures, both average inspections and passing rate are highest in big franchise restaurants. Smaller franchises were inspectly least frequently, but their pass rate was still higher than individual restaurants.  
-#### PICTURE NB INSPECTION individuals/small/big 
+![Inspections per group](general/inspections_avg_franchise_individuals.png)  
 #### PICTURE PASS RATE individuals/small/big  
 
 ### 
@@ -20,10 +18,10 @@ Here is quick look at the average number of inspections and inspection pass rate
 
 ### The fries or the salad?  
 There are different types of food served in franchise restaurants: burgers, sandwiches, pizza.. Can we tell which type of franchise is safer to eat in Chicago? First, let's take a look at the average number of inspection for each type of franchise to see how they behave.  
-#### PICTURE NB INSPECTION GROUP  
+![Inspections per group](general/inspection_per_license_franchisetype.png)  
 <br>
 Sandwich franchises are the ones being the most inspected with on average 8.1 inspections per restaurant! They are closely followed by burritos/bowls and burgers. This is interesting as those are often mentionned when there are disease outbreaks and thus may have been targeted more thoroughly by inspectors. Opposed to this are pizza places that are inspected twice less inspected. But more importantly, what about the results of those inspections?  
-#### PICTURE FAIL RATE PER GROUP  
+![Inspections per group](general/fail_rate_franchisetype.png)  
 <br>
 Seeing from the overall fail rate between different types of franchises, we can say sandwich franchises are the safest, and the pizza franchises are the least safe. Furthermore, the inspection pass rate is heavily correlated with the inspection frequency. We can infer that a restaurant that is inspected more often is likely to take care of safety issues, and eventually, to pass the inspection more easily than its counterparts.  
 
@@ -34,9 +32,9 @@ Among the violations related to the inspection failure, hygyene issue took more 
 
 ### The violations podium
 Few franchises are similar to each other and it gives some interesting results. We have found a few intriguing stats:  
-#### Violations regarding equipment  
-Funnily, McDonald's has the highest number of violations related to equipment maintenance/sanitization. A nice find when you know that they were heavily mocked a few months ago on the internet for their always-broken ice machine.  
-#### Inspections initiated from complaints  
+![Inspections per group](general/severe_equipment_violations_by_franchise.png)  
+Funnily, McDonald's has the highest number of violations related to equipment maintenance/sanitization. A nice find when you know that they were heavily mocked a few months ago on the internet for their always-broken ice machines.  
+![Inspections per group](general/complaint_inspections_by_franchise.png)  
 No luck for McDonalds, they are still the best in another category! With BurgerKing, they must have angered a lot of customers to be controlled close to 4 out of 5 times for a complaint.
 
 ### Is the Wealthier the safer, wherever you are?
