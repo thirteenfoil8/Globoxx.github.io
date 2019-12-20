@@ -9,7 +9,8 @@ If we're looking at McDonald's, Burger King and Wendys, we want to choose one of
 ### Want to eat some chicken ?
 ![Fail rate of chicken restaurant](/franch_img/kfc_hc_pp.png)
 By selecting KFC,Harold's Chicken and Popeyes, our chicago guy want to choose on of them for his dinner. He doesn't prefer any of them he just wants to be sure that the restaurant is safe because he read an article about [bird flu](http://dbfchicago.com/bird-flu-chicago/) that makes him scared of this disease.
-
+### Want to eat some Pizza ?  
+![Fail rate of Pizza restaurant](/franch_img/ph_dm_pjp.png)
 
  
 ## Where do I need to go?  
