@@ -57,3 +57,6 @@ One information that isn't shown in this part is the number of licenses Starbuck
 As a conclusion, we made a (simplified) table to recommend which franchises to go to depending on your location and food habits:  
 <br>
 ![Recommendation](part_location/recommendation.png)
+
+## Is it enough to find the best place to go?  
+In this guide, we went through several ways to select the more suitable restaurant to eat safely. It's opened to the reader to select one of the restaurants rely on his cravings and what he wants to eat but after looking at all these facts about safety, doesn't it better to step back and realize that some restaurants must be prevented. 
