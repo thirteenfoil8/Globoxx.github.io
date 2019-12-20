@@ -11,6 +11,7 @@ Roughly, there are two ways of choosing a place to eat. One is eating at a franc
  
 
 Here is a quick look at the average number of inspections and inspection pass rate of Chicago restaurants. We classified the restaurants in three groups: massive and worldwide franchises, smaller franchises, and non-franchises. As we can see in the next figure, the average inspections is the highest in big franchise restaurants while smaller franchises were inspectly least frequently.  
+<br>
 ![Inspections per group](general/inspections_avg_franchise_individuals.png)  
 
 Franchise are also more resistant to socioeconomics factors than individual restaurants. For example the poverty of a district doesn't influence if a franchised restaurant will fail an inspection whereas a small restaurant will suffer higher failing rate.  We displayed from left to right big franchises, small franchises and individuals. Each point represents the average fail rate (x axis) of a district depending on its wealth (y axis).  
@@ -19,25 +20,33 @@ Franchise are also more resistant to socioeconomics factors than individual rest
 
 ## The fries or the salad?  
 There are different types of food served in franchise restaurants: burgers, sandwiches, pizza.. Can we tell which type of franchise is safer to eat in Chicago? First, let's take a look at the average number of inspection for each type of franchise to see how they behave.  
+<br>
 ![Inspections per group](general/inspection_per_license_franchisetype.png)  
 <br>
 Sandwich franchises are the ones being the most inspected with on average 8.1 inspections per restaurant! They are closely followed by burritos/bowls and burgers. This is interesting as those are often mentionned when diseases outbreak and thus may have been targeted more thoroughly by inspectors. Opposed to this are pizza places that are inspected half as much. But more importantly, what about the results of those inspections?  
+<br>
 ![Inspections per group](general/fail_rate_franchisetype.png)  
 <br>
 Looking at the overall failure rate between different types of franchises, we can say sandwich franchises are the safest and the pizza franchises are the least safe. Furthermore, the inspection pass rate is heavily correlated with the inspection frequency. We can infer that a restaurant that is inspected more often is more likely to take care of safety issues and eventually, to pass the inspection more easily than its counterparts.  
 
 ## Which violations are the main causes of inspection failure?
-Before digging the different franchises and the violations they've got, let's take a look at the main cause of inspection failure for major franchise restaurants.
+Before digging the different franchises and the violations they've got, let's take a look at the main cause of inspection failure for major franchise restaurants.  
+<br>  
 ![Inspections per group](general/violations_repartition.jpg)  
+<br>
 Among the violations related to the inspection failure, hygiene issue caused more than half of the total violations, followed by equipment. Looking at those two violations thoroughly, different types of franchises will give us the detailed idea of which place is safer to visit.
 
 ## The violations podium
 Few franchises are similar to each other and it gives some interesting results. We have found a few intriguing stats:  
+<br>
 ![Inspections per group](general/severe_equipment_violations_by_franchise.png)  
+<br>
 Funnily, McDonald's has the highest number of violations related to equipment maintenance/sanitization. A nice find when you know that they were heavily mocked a few months ago on the internet for their always-broken ice machines.  
+![McDonalds](meme.png)  
+<br>
 ![Inspections per group](general/complaint_inspections_by_franchise.png)  
+<br>
 No luck for McDonalds, they are still the best in another category! With BurgerKing, they must have angered a lot of customers to be controlled close to four out of five times for a complaint.  
-![McDonalds](meme.png)
 
 
 
@@ -75,12 +84,12 @@ We clearly see a domino effect between these different metrics. Especially, lowe
 We got you covered! They are many franchises established in Chicago and all the biggest ones (such as McDonald's, Starbucks, KFC...) are present. But as we may expect, they all behave differently depending on where they are located. We will cover in this subsection which franchises are to be preferred depending on what type of food do you want and where do you want to eat it.  
 We split up the franchises in four different categories depending on what type of food they are selling: burgers, pizzas, fried chicken and snacks/drinks. Each category only contains the three most established franchises as smaller ones tend to have not enough data to study. 
 #### I want: a Burger  
-For the burger category, we have McDonald's, Burger King and Wendy's facing themselves. McDonald's has a failure rate around 15% in most Chicago distrincts but has no outliers (the biggest fail rate is only 35%). This differs from Burger King which is much less prone to failing inspections in the North and South of Chicago but has two districts in the Middle-North that are close to 50% failing rate. Wendy's follows the same trend except for the worst places in the south.
+For the burger category, we have McDonald's, Burger King and Wendy's facing themselves. McDonald's has a failure rate around 15% in most Chicago distrincts but has no outliers (the biggest fail rate is only 35%). This differs from Burger King which is much less prone to failing inspections in the North and South of Chicago but has two districts in the Middle-North that are close to 50% failing rate. Wendy's follows the same trend except for the worst places in the south.  
 <br>
 ![Burgers](part_location/burgers/merged.png)  
 
 #### I want: a Pizza  
-Pizzas are a little bit different than other franchise types as they are also heavily involved in delivery. Papa Johns Pizza is the black sheep here with more than 25% failed inspections on about 60% of the districts it covers. Dominos and Pizza Hut are the inverse of each other with Dominos being exemplary everywhere except in the middle of Chicago. Pizza Hut is a little bit better on average in the Middle-North but worse than Dominos elsewhere.
+Pizzas are a little bit different than other franchise types as they are also heavily involved in delivery. Papa Johns Pizza is the black sheep here with more than 25% failed inspections on about 60% of the districts it covers. Dominos and Pizza Hut are the inverse of each other with Dominos being exemplary everywhere except in the middle of Chicago. Pizza Hut is a little bit better on average in the Middle-North but worse than Dominos elsewhere.  
 <br>
 ![Pizzas](part_location/pizzas/merged.png)  
 
