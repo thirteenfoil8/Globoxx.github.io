@@ -16,29 +16,29 @@ Finally, what's better than a good pizza in front of the TV ? We have to select 
  
 ## Where do I need to go?  
 
-Sometimes, we just don't want to go far away to enjoy a meal. We want to get out of bed, go outside and take a burger at the closest street block without worrying about transportation. We will see in this part that not all districts are equal regarding inspections and their results. Latter on, we will focus on some franchises as those also have pretty different results depending on where they are located in Chicage.  
+Sometimes, we just don't want to go far away to enjoy a meal. We want to get out of bed, go outside and take a burger at the closest street block without worrying about transportation. We will see in this part that not all districts are equal regarding inspections and their results. Latter on, we will focus on some franchises as those also have pretty different results depending on where they are located in Chicago.  
 
 ### The socio-economic factor  
 
-Chicago suffers a clear wealth divide with some district being largely poorer than teir neighboors. This can be observed with the North and North-East districts that are way richer than the West and South side of Chicago. We used the median household income as a wealth indicator to see if there is a correlation between the wealth and the overall restaurant inspections' results.  
-To visualize this, we put side by side the districts' median income, their average inspections per restaurant (from 2011 to 2017) and the average inspection fail rate of these same restaurants.  
+Chicago suffers a clear wealth divide with some district being largely poorer than their neighbors. This can be observed with the North and North-East districts that are way richer than the West and South side of Chicago. We used the median household income as a wealth indicator to see if there is a correlation between the wealth and the overall restaurant inspections’ results.
+To visualize this, we put side by side the districts’ median income, their average inspections per restaurant (from 2011 to 2017) and the average inspection fail rate of these same restaurants.
 
 <br>  
 ![Correlation between wealth, inspections and fail rate](part_location/socioeconomics/merged.png)  
 <br>  
-We clearly see a domino effect between these different metrics. Especially, lower income districts' restaurants may face less inspections. And this lower amount of inspections leads surely to more failures as restaurants are left alone longer without control. So if you want to lunch in a random restaurant within your district with as few sanitization issues as possible, you better live in the wealthiest one!  
+We clearly see a domino effect between these different metrics. Especially, lower income districts' restaurants may face fewer inspections. And this lower amount of inspections leads surely to more failures as restaurants are left alone longer without control. So if you want to lunch in a random restaurant within your district with as few sanitation issues as possible, you better live in the wealthiest one!  
 
 ### But what if I  prefer <insert_food\> ? 
 
-We got you covered! They are many franchises established in Chicago and all the biggest ones (such as McDonalds, Starbucks, KFC...) are present. But as we may expect, they all behave differently depending on where they are located. We will cover in this subsection which franchises are to be prefered depending on what type of food do you want and where do you want to eat it.  
-We split up the franchises in 4 different categories depending on what type of food they are sellings: burgers, pizzas, fried chicken and snacks/drinks. Each categories only contains the 3 most established franchises as smaller ones tend to have not enough data for to study.  
+We got you covered! They are many franchises established in Chicago and all the biggest ones (such as McDonald's, Starbucks, KFC...) are present. But as we may expect, they all behave differently depending on where they are located. We will cover in this subsection which franchises are to be preferred depending on what type of food do you want and where do you want to eat it.  
+We split up the franchises in 4 different categories depending on what type of food they are selling: burgers, pizzas, fried chicken and snacks/drinks. Each category only contains the 3 most established franchises as smaller ones tend to have not enough data for to study. 
 #### I want: a Burger  
-For the burger category, we have McDonalds, BurgerKing and Wendys facing themselves. McDonalds has a failing rate greater than 15% on almost all Chicago's territory but has no outliers (the biggest fail rate in only 35%). This differs from BurgerKing that is much less prone to failing inspections in the North and South of Chicago but has 2 districts in the Middle-North that are close to 50% failing rate. Wendys follows the same trend except the worst places in the south.  
+For the burger category, we have McDonald's, Burger King and Wendy's facing themselves. McDonald's has a failing rate greater than 15% on almost all Chicago's territory but has no outliers (the biggest fail rate in only 35%). This differs from Burger King that is much less prone to failing inspections in the North and South of Chicago but has 2 districts in the Middle-North that are close to 50% failing rate. Wendy's follows the same trend except the worst places in the south.
 <br>
 ![Burgers](part_location/burgers/merged.png)  
 
 #### I want: a Pizza  
-Pizzas are a little bit different than other franchise types as they are also heavily involved in delivery. Papa Johns Pizza is the black sheep here with more than 25% failed inspections on about 60% of the districts it covers. Dominos and PizzaHut are the inverse of each others with Dominos being exemplary everywhere except in the middle of Chicago. PizzaHut is a little bit better on average in the Middle-North but worse than Dominos elsewhere.  
+Pizzas are a little bit different than other franchise types as they are also heavily involved in delivery. Papa Johns Pizza is the black sheep here with more than 25% failed inspections on about 60% of the districts it covers. Dominos and Pizza Hut are the inverse of each other with Dominos being exemplary everywhere except in the middle of Chicago. Pizza Hut is a little bit better on average in the Middle-North but worse than Dominos elsewhere.
 <br>
 ![Pizzas](part_location/pizzas/merged.png)  
 
